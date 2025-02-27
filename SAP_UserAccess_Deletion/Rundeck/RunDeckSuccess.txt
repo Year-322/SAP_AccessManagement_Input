@@ -1,0 +1,8 @@
+{
+  "result": {
+    "rd_exec_id": "RundeckId",
+    "rd_job_status": "DONE",
+    "ticket_state": "Closed Complete",
+    "ticket_work_notes": "Successfully deleted in SAP"
+  }
+}
